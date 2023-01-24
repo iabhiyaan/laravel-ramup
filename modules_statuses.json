@@ -1,0 +1,7 @@
+{
+    "Dashboard": true,
+    "Blog": true,
+    "AdminUser": true,
+    "Folder": true,
+    "Content": true
+}
