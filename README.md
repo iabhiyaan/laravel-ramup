@@ -13,4 +13,9 @@ Before running the database migrations you have to setup a database connection i
 php artisan migrate --seed
 ```
 
+To store medias in local use
+```
+php artisan storage:link
+```
+
 
